@@ -1,0 +1,28 @@
+dataset_settings:
+  # Comment 
+  data:
+    # Sony
+    - input_root: /lsmi_RGB/sony/input
+      target_root: /lsmi_RGB/sony/target
+      valid_input_root: /lsmi_RGB/sony/input
+      valid_target_root: /lsmi_RGB/sony/target
+      splits: /metadata/sony_split.json
+
+    # Nikon
+    - input_root: /lsmi_RGB/nikon/input
+      target_root: /lsmi_RGB/nikon/target
+      valid_input_root: /lsmi_RGB/nikon/input
+      valid_target_root: /lsmi_RGB/nikon/target
+      splits: /metadata/nikon_split.json
+
+  train_batch_size: 8
+  valid_batch_size: 1 # If you want to train/evaluate on the nikon and sony datasets together, set this to 1
+  num_workers: 4
+
+training_settings:
+  epochs: 400
+  valid_every: 10
+
+model:
+  pretrained: None
+  P: 15
