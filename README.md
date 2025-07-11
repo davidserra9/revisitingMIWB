@@ -1,17 +1,30 @@
-## Revisiting Image Fusion for Multi-Illuminant White-Balance Correction. In ICCV, 2025.
+## Revisiting Image Fusion for Multi-Illuminant White-Balance Correction.<br>In ICCV, 2025.
 
-[David Serrano-Lozano](https://davidserra9.github.io/)<sup>1,2</sup>, [Aditya Arora](https://adityac8.github.io/)<sup>3,4,5</sup>, [Luis Herranz](https://www.lherranz.org/)<sup>6</sup>, [Konstantinos G. Derpanis](https://csprofkgd.github.io/)<sup>3,4</sup>, [Michael S. Brown](https://www.cse.yorku.ca/~mbrown/)<sup>3</sup> and [Javier Vazquez-Corral](https://jvazquezcorral.github.io/) <sup>1,2</sup>
 
-<sup>1</sup>Computer Vision Center,
-<sup>2</sup>Universitat Autònoma de Barcelona,
-<sup>3</sup>York University,
-<sup>4</sup>Vector Institute,
-<sup>5</sup>TU Darmstadt and
-<sup>6</sup>Universidad Autónoma de Madrid
-
-[![arXiv](https://img.shields.io/badge/ArXiv-Paper-B31B1B)](https://arxiv.org/abs/2503.14774)
-[![web](https://img.shields.io/badge/Project-Page-black)](https://davidserra9.github.io/revisitingmiwb)
-[![Dataset](https://img.shields.io/badge/Dataset-Soon-yellow)]()
+<p align="center">
+  <a href="https://davidserra9.github.io/">David Serrano-Lozano</a><sup>1,2</sup>, 
+  <a href="https://adityac8.github.io/">Aditya Arora</a><sup>3,4,5</sup>, 
+  <a href="https://www.lherranz.org/">Luis Herranz</a><sup>6</sup>,<br>
+  <a href="https://csprofkgd.github.io/">Konstantinos G. Derpanis</a><sup>3,4</sup>, 
+  <a href="https://www.cse.yorku.ca/~mbrown/">Michael S. Brown</a><sup>3</sup> and 
+  <a href="https://jvazquezcorral.github.io/">Javier Vazquez-Corral</a><sup>1,2</sup>
+  <br><br>
+  <sup>1</sup>Computer Vision Center, 
+  <sup>2</sup>Universitat Autònoma de Barcelona, 
+  <sup>3</sup>York University,<br>
+  <sup>4</sup>Vector Institute, 
+  <sup>5</sup>TU Darmstadt and 
+  <sup>6</sup>Universidad Politécnica de Madrid
+  <br><br>
+  
+  <a href="https://arxiv.org/abs/2503.14774">
+    <img src="https://img.shields.io/badge/ArXiv-Paper-B31B1B">
+  </a>
+  <a href="https://davidserra9.github.io/revisitingmiwb">
+    <img src="https://img.shields.io/badge/Project-Page-black">
+  </a>
+  <img src="https://img.shields.io/badge/Dataset-Soon-yellow">
+</p>
 
 ***
 
