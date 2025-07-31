@@ -20,7 +20,7 @@
   <a href="https://arxiv.org/abs/2503.14774">
     <img src="https://img.shields.io/badge/ArXiv-Paper-B31B1B">
   </a>
-  <a href="https://davidserra9.github.io/revisitingmiwb">
+  <a href="https://revisitingmiwb.github.io">
     <img src="https://img.shields.io/badge/Project-Page-black">
   </a>
   <img src="https://img.shields.io/badge/Dataset-Soon-yellow">
