@@ -23,15 +23,18 @@
   <a href="https://revisitingmiwb.github.io">
     <img src="https://img.shields.io/badge/Project-Page-black">
   </a>
-  <img src="https://img.shields.io/badge/Dataset-Soon-yellow">
+  <a href="https://color.cvc.uab.cat/revisitingmiwb">
+    <img src="https://img.shields.io/badge/Dataset-Page-yellow">
+  </a>
 </p>
 
 ***
 
 ## TODOs (In Progress)
 
-- Upload models for both splits of our dataset and RenderedWB.
-- Upload the dataset. We are currently exploring the best way to host it.
+✅ Upload models for both splits of our dataset and RenderedWB.
+✅ Upload the dataset. 
+ · Upload the large version of the dataset. We are currently exploring the best way to host it.
 
 ## Method
 
@@ -39,9 +42,12 @@ We propose a lightweight Transformer block to blend five white balance (WB) pres
 
 ## Data
 
-We repurpose the [LSMI dataset](https://www.dykim.me/projects/lsmi) to compute ground-truth white-balanced images from multi-illuminant scenes.
+While the original [LSMI dataset](https://www.dykim.me/projects/lsmi) was designed for illumination estimation from RAW images, we repurpose it to compute ground-truth white-balanced images from multi-illuminant scenes. Please check the original dataset for data acquisition and other details.
 
-We are currently evaluating the best options for dataset hosting. It will be available for download soon.
+To download the dataset, please check the following website: 
+<a href="https://color.cvc.uab.cat/revisitingmiwb">
+  <img src="https://img.shields.io/badge/Dataset-Page-yellow">
+</a>
 
 ## Getting Started
 
