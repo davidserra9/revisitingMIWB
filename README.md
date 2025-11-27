@@ -33,7 +33,9 @@
 ## TODOs (In Progress)
 
 ✅ Upload models for both splits of our dataset and RenderedWB.
+
 ✅ Upload the dataset. 
+
  · Upload the large version of the dataset. We are currently exploring the best way to host it.
 
 ## Method
