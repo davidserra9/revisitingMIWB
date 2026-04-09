@@ -36,8 +36,6 @@
 
 ✅ Upload the dataset. 
 
- · Upload the large version of the dataset. We are currently exploring the best way to host it.
-
 ## Method
 
 We propose a lightweight Transformer block to blend five white balance (WB) presets and produce a white-balanced image. Our model contains only 7.9K parameters.
